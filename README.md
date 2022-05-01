@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Vasilis
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 arg0nath/arg0nath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
