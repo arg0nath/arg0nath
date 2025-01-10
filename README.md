@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I'm Vasilis</h2> 
-<h3> 🔧 Messing around with Flutter for 3.6 years</h3>
-<h3>  📍 I'm located in Greece</h3>
-<h3> 🌐 You can check my portofolio [here](https://vmakris.info)</h3>
+<h4> 🔧Messing around with Flutter for 3.6 years</h4>
+<h4>  📍 I'm located in Greece</h4>
+<h4> 🌐 And that's my portofolio: https://vmakris.info</h4>
 
 <h2> 🚀 &nbsp;Some Tools I Have In My Inventory</h2>
 <p align="left">
