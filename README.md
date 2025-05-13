@@ -5,8 +5,8 @@ user: {
   user_name: "arg0nath",
   first_name: "Vasilis",
   located_in: "Greece",
-  education: "Bachelor's in Electronic Engineering",
-  technical_background: "Flutter Developer for 3.6 years",
+  role: "Flutter Developer"
+  education: "BSc in Electronic Engineering",
   status: "Turning caffeine into code",
   field_of_interest: [
     "Flutter",
