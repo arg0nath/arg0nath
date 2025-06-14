@@ -17,7 +17,7 @@ user: {
 }
 ```
 
-<h3> 🌐 That's my portofolio: https://vmakris.info</h3>
+<h3> That's my portfolio: https://vmakris.info</h3>
 <h3> 🚀 &nbsp;Some Tools I Have In My Inventory</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" />
