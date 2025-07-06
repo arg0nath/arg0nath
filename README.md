@@ -1,9 +1,8 @@
 ****** 
 
 ```yaml
-user: {
+info: {
   user_name: "arg0nath",
-  first_name: "Vasilis",
   located_in: "Greece",
   role: "Flutter Developer"
   education: "BSc in Electronic Engineering",
@@ -16,9 +15,9 @@ user: {
    ]
 }
 ```
+<h3> 🌐 &nbsp;Portfolio https://vmakris.info</h3>
 
-<h3> That's my portfolio: https://vmakris.info</h3>
-<h3> 🚀 &nbsp;Some Tools I Have In My Inventory</h3>
+<h3> 🚀 &nbsp;Tech Stack</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" />
@@ -54,3 +53,9 @@ user: {
 </p>
 <p align="left">
 
+<h3> 📊 &nbsp;Stats</h3>
+
+![](https://nirzak-streak-stats.vercel.app/?user=arg0nath&theme=dark&hide_border=true)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
