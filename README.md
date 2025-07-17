@@ -1,7 +1,7 @@
 ****** 
 
 ```yaml
-portfolio: "https://vmakris.info"
+portfolio: "https://vmakris.info",
 info: {
   user_name: "arg0nath",
   located_in: "Greece",
