@@ -1,11 +1,11 @@
 ****** 
 
 ```yaml
+portfolio: "https://vmakris.info"
 info: {
   user_name: "arg0nath",
   located_in: "Greece",
   role: "Flutter Developer"
-  portfolio: "🌐 Portfolio https://vmakris.info"
   education: "BSc in Electronic Engineering",
   status: "Turning caffeine into code",
   field_of_interest: [
