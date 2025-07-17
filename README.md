@@ -5,6 +5,7 @@ info: {
   user_name: "arg0nath",
   located_in: "Greece",
   role: "Flutter Developer"
+  portfolio: "🌐 Portfolio https://vmakris.info"
   education: "BSc in Electronic Engineering",
   status: "Turning caffeine into code",
   field_of_interest: [
@@ -15,7 +16,6 @@ info: {
    ]
 }
 ```
-<h3> 🌐 &nbsp;Portfolio https://vmakris.info</h3>
 
 <h3> 🚀 &nbsp;Tech Stack</h3>
 <p align="left">
