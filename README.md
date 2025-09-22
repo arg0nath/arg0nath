@@ -6,9 +6,10 @@ Trying not to fall into rabbit holes... again
 ```json
 "info": {
   "user_name": "arg0nath",
-  "user_type": "human"
-  "located_in": "Greece",
-  "role": "Flutter Developer"
+  "user_type": "human",
+  "lat": "37.97554586680256",
+  "lon": "23.734877415374452",
+  "role": "Flutter Developer", 
   "education": "BSc in Electronic Engineering",
   "status": "Turning caffeine into code",
   "field_of_interest": [
